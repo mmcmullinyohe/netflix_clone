@@ -10,6 +10,11 @@
 .card-list {
     display: flex;
     gap:10px;
+    overflow-x: scroll;
+}
+
+.card-list::-webkit-scrollbar {
+    display: none;
 }
 
 .card-list img {
