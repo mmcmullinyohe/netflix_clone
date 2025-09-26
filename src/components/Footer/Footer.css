@@ -22,3 +22,9 @@
     margin-bottom: 30px;
     list-style: none;
 }
+
+.copyright-text {
+    color: gray;
+    font-size: 14px;
+    
+}
